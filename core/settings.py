@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.flatpages',
     'polls',
     'login',
+    'position_player',
 )
 
 MIDDLEWARE_CLASSES = (
